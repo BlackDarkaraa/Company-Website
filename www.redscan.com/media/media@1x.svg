@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="335" height="335" viewBox="0 0 335 335">
+  <defs>
+    <path id="media@1x-a" d="M106.792,1.636 C104.935,0.564 102.648,0.564 100.792,1.636 C85.851,10.262 19.4731,48.5851 1.5013,58.9611 C0.5731,59.497 0.0013,60.4874 0.0013,61.5592 C0.0013,62.631 0.5731,63.6214 1.5013,64.1573 C19.4731,74.5333 85.851,112.8563 100.792,121.4826 C102.648,122.5544 104.935,122.5544 106.792,121.4826 C121.733,112.8563 188.11,74.5333 206.082,64.1573 C207.01,63.6214 207.582,62.631 207.582,61.5592 C207.582,60.4874 207.01,59.497 206.082,58.9611 C188.11,48.5851 121.733,10.262 106.792,1.636 Z"/>
+    <polygon id="media@1x-c" points="59.056 .51 .308 34.429 .308 81.974 59.056 48.056"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="translate(40 70)">
+    <line x1="127.6" x2="127.6" y1="42.286" y2="54.765" stroke="#B1BBC9" stroke-linecap="round" stroke-linejoin="round"/>
+    <path fill="#EFF4F7" d="M142.792,57.371 C140.935,56.3 138.648,56.3 136.792,57.371 C118.628,67.858 23.4127,122.8308 1.5,135.4821 C0.5718,136.018 0,137.0084 0,138.0802 C0,139.152 0.5718,140.1424 1.5,140.6783 C23.4127,153.3296 118.628,208.3019 136.792,218.7889 C138.648,219.8607 140.935,219.8607 142.792,218.7889 C160.956,208.3019 256.171,153.3296 278.083,140.6783 C279.012,140.1424 279.583,139.152 279.583,138.0802 C279.583,137.0084 279.012,136.018 278.083,135.4821 C256.171,122.8308 160.956,67.858 142.792,57.371 Z"/>
+    <path fill="#D1D9E0" d="M142.792,78.157 C140.935,77.085 138.648,77.085 136.792,78.157 C121.851,86.783 55.4731,125.1061 37.5013,135.4821 C36.5731,136.018 36.0013,137.0084 36.0013,138.0802 C36.0013,139.152 36.5731,140.1424 37.5013,140.6783 C55.4731,151.0543 121.851,189.3773 136.792,198.0036 C138.648,199.0754 140.935,199.0754 142.792,198.0036 C157.733,189.3773 224.11,151.0543 242.082,140.6783 C243.01,140.1424 243.582,139.152 243.582,138.0802 C243.582,137.0084 243.01,136.018 242.082,135.4821 C224.11,125.1061 157.733,86.783 142.792,78.157 Z"/>
+    <g transform="translate(36 76.521)">
+      <mask id="media@1x-b" fill="#fff">
+        <use xlink:href="#media@1x-a"/>
+      </mask>
+      <polygon fill="#B1BBC9" points="-1.207 144 103.792 144 103.792 -46 -1.207 -46" mask="url(#media@1x-b)"/>
+      <polygon fill="#FFF" points="211.982 77.656 153.233 43.738 153.233 91.283 211.982 125.202" mask="url(#media@1x-b)"/>
+      <polygon stroke="#01050C" stroke-linecap="round" stroke-linejoin="round" points="211.982 77.656 153.233 43.738 153.233 91.283 211.982 125.202" mask="url(#media@1x-b)"/>
+      <polygon fill="#5A6D83" fill-opacity=".2" points="153.233 43.738 167.002 51.687 167.002 64.707 153.233 56.758" mask="url(#media@1x-b)"/>
+      <path stroke="#5A6D83" stroke-linecap="round" stroke-linejoin="round" d="M167.002,59.8448 C169.493,61.283 171.516,64.786 171.516,67.6624 C171.516,70.5389 169.493,71.7065 167.002,70.2683 C164.511,68.8301 162.489,65.3271 162.489,62.4507 C162.489,59.5742 164.511,58.4066 167.002,59.8448 Z" mask="url(#media@1x-b)"/>
+      <path fill="#D1D9E0" d="M157.575,71.9166 L157.575,89.4628 L207.545,118.3125 L207.545,94.6834 C207.545,94.6834 205.866,89.5027 197.154,84.6963 C186.146,78.6238 184.049,94.172 174.953,88.8129 C167.186,84.2372 163.14,74.7304 157.575,71.9166 Z" mask="url(#media@1x-b)"/>
+      <path stroke="#5A6D83" stroke-linecap="round" stroke-linejoin="round" d="M157.575,71.9166 L157.575,89.4628 L207.545,118.3125 L207.545,94.6834 C207.545,94.6834 205.866,89.5027 197.154,84.6963 C186.146,78.6238 184.049,94.172 174.953,88.8129 C167.186,84.2372 163.14,74.7304 157.575,71.9166 Z" mask="url(#media@1x-b)"/>
+      <polygon fill="#FFF" points="125.506 51.185 81.056 76.848 81.056 141.663 125.506 115.999" mask="url(#media@1x-b)"/>
+      <polygon stroke="#01050C" stroke-linecap="round" stroke-linejoin="round" points="125.506 51.185 81.056 76.848 81.056 141.663 125.506 115.999" mask="url(#media@1x-b)"/>
+      <polygon fill="#FFF" points="53.313 61.106 8.863 86.769 8.863 151.583 53.313 125.92" mask="url(#media@1x-b)"/>
+      <polygon stroke="#01050C" stroke-linecap="round" stroke-linejoin="round" points="53.313 61.106 8.863 86.769 8.863 151.583 53.313 125.92" mask="url(#media@1x-b)"/>
+      <polygon fill="#5A6D83" fill-opacity=".2" points="53.313 83.064 30.558 96.202 30.558 129.383 53.313 116.245" mask="url(#media@1x-b)"/>
+      <polygon fill="#5A6D83" fill-opacity=".2" points="125.506 104.201 79.697 130.649 79.697 163.949 125.506 137.501" mask="url(#media@1x-b)"/>
+      <line x1="88.858" x2="112.479" y1="85.451" y2="71.813" stroke="#01050C" stroke-linecap="round" stroke-linejoin="round" mask="url(#media@1x-b)"/>
+      <line x1="88.858" x2="96.896" y1="93.325" y2="88.684" stroke="#01050C" stroke-linecap="round" stroke-linejoin="round" mask="url(#media@1x-b)"/>
+      <line x1="88.858" x2="104.934" y1="102.506" y2="93.225" stroke="#01050C" stroke-linecap="round" stroke-linejoin="round" mask="url(#media@1x-b)"/>
+      <line x1="88.858" x2="96.896" y1="111.687" y2="107.047" stroke="#01050C" stroke-linecap="round" stroke-linejoin="round" mask="url(#media@1x-b)"/>
+      <line x1="88.858" x2="104.934" y1="120.869" y2="111.587" stroke="#01050C" stroke-linecap="round" stroke-linejoin="round" mask="url(#media@1x-b)"/>
+      <line x1="100.682" x2="116.593" y1="86.371" y2="77.184" stroke="#01050C" stroke-linecap="round" stroke-linejoin="round" mask="url(#media@1x-b)"/>
+      <line x1="108.556" x2="116.593" y1="91.006" y2="86.365" stroke="#01050C" stroke-linecap="round" stroke-linejoin="round" mask="url(#media@1x-b)"/>
+      <line x1="102.211" x2="116.593" y1="103.85" y2="95.546" stroke="#01050C" stroke-linecap="round" stroke-linejoin="round" mask="url(#media@1x-b)"/>
+      <line x1="108.556" x2="116.593" y1="109.368" y2="104.727" stroke="#01050C" stroke-linecap="round" stroke-linejoin="round" mask="url(#media@1x-b)"/>
+    </g>
+    <path stroke="#01050C" stroke-linecap="round" stroke-linejoin="round" d="M142.792,78.157 C140.935,77.085 138.648,77.085 136.792,78.157 C121.851,86.783 55.4731,125.1061 37.5013,135.4821 C36.5731,136.018 36.0013,137.0084 36.0013,138.0802 C36.0013,139.152 36.5731,140.1424 37.5013,140.6783 C55.4731,151.0543 121.851,189.3773 136.792,198.0036 C138.648,199.0754 140.935,199.0754 142.792,198.0036 C157.733,189.3773 224.11,151.0543 242.082,140.6783 C243.01,140.1424 243.582,139.152 243.582,138.0802 C243.582,137.0084 243.01,136.018 242.082,135.4821 C224.11,125.1061 157.733,86.783 142.792,78.157 Z"/>
+    <polygon fill="#FFF" points="117.056 60.031 58.308 93.95 58.308 141.495 117.056 107.577"/>
+    <g transform="translate(58 59.521)">
+      <mask id="media@1x-d" fill="#fff">
+        <use xlink:href="#media@1x-c"/>
+      </mask>
+      <path stroke="#5A6D83" stroke-linecap="round" stroke-linejoin="round" d="M14.0768,34.637 C16.5679,33.199 18.5903,34.366 18.5903,37.243 C18.5903,40.119 16.5679,43.622 14.0768,45.06 C11.5857,46.498 9.5633,45.331 9.5633,42.454 C9.5633,39.578 11.5857,36.075 14.0768,34.637 Z" mask="url(#media@1x-d)"/>
+      <path fill="#D1D9E0" d="M4.6501,57.594 L4.6501,75.1398 L54.619,46.29 L54.619,22.661 C54.619,22.661 52.94,19.419 44.228,24.672 C33.2209,31.31 31.1235,49.28 22.0273,54.424 C14.2609,58.817 10.2142,53.983 4.6501,57.594 Z" mask="url(#media@1x-d)"/>
+      <path stroke="#5A6D83" stroke-linecap="round" stroke-linejoin="round" d="M4.6501,57.594 L4.6501,75.1398 L54.619,46.29 L54.619,22.661 C54.619,22.661 52.94,19.419 44.228,24.672 C33.2209,31.31 31.1235,49.28 22.0273,54.424 C14.2609,58.817 10.2142,53.983 4.6501,57.594 Z" mask="url(#media@1x-d)"/>
+      <polygon fill="#5A6D83" fill-opacity=".2" points="65.997 29.834 43.242 42.972 43.242 76.152 65.997 63.015" mask="url(#media@1x-d)"/>
+    </g>
+    <polygon stroke="#01050C" stroke-linecap="round" stroke-linejoin="round" points="117.056 60.031 58.308 93.95 58.308 141.495 117.056 107.577"/>
+    <polygon fill="#FFF" points="198.967 67.574 154.517 41.911 154.517 106.725 198.967 132.388"/>
+    <polygon stroke="#01050C" stroke-linecap="round" stroke-linejoin="round" points="198.967 67.574 154.517 41.911 154.517 106.725 198.967 132.388"/>
+    <line x1="162.319" x2="185.94" y1="56.288" y2="69.926" stroke="#01050C" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="162.319" x2="170.357" y1="64.162" y2="68.802" stroke="#01050C" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="162.319" x2="178.394" y1="73.343" y2="82.624" stroke="#01050C" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="174.142" x2="190.054" y1="70.86" y2="80.047" stroke="#01050C" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="182.016" x2="190.054" y1="84.587" y2="89.228" stroke="#01050C" stroke-linecap="round" stroke-linejoin="round"/>
+    <path fill="#E01A33" fill-opacity=".5" d="M172.208,87.646 C177.67,90.799 182.098,98.468 182.098,104.775 C182.098,111.078 177.667,113.637 172.208,110.485 C166.746,107.332 162.319,99.663 162.319,93.356 L167.264,96.211 C167.264,99.364 169.477,103.199 172.208,104.775 C174.938,106.351 177.153,105.072 177.153,101.92 C177.153,98.767 174.939,94.932 172.208,93.356 L172.208,87.646 Z"/>
+    <path fill="#E01A33" d="M172.208,87.646 C166.746,84.492 162.319,87.049 162.319,93.356 C162.319,99.658 166.75,107.334 172.208,110.485 C177.67,113.639 182.098,111.082 182.098,104.775 L177.153,101.92 C177.153,105.074 174.939,106.352 172.208,104.775 C169.479,103.2 167.264,99.362 167.264,96.211 C167.264,93.057 169.477,91.779 172.208,93.356 L172.208,87.646 Z"/>
+    <polygon fill="#FFF" points="145.584 13.887 122.829 .75 122.829 33.93 145.584 47.068"/>
+    <polygon stroke="#01050C" stroke-linecap="round" stroke-linejoin="round" points="145.584 13.887 122.829 .75 122.829 33.93 145.584 47.068"/>
+    <polygon fill="#FFF" points="89.313 33.897 72.197 43.779 72.197 68.737 89.313 58.855"/>
+    <polygon stroke="#01050C" stroke-linecap="round" stroke-linejoin="round" points="89.313 33.897 72.197 43.779 72.197 68.737 89.313 58.855"/>
+    <line x1="76.048" x2="78.694" y1="49.429" y2="47.902" stroke="#01050C" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="76.048" x2="81.339" y1="54.26" y2="51.205" stroke="#01050C" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="79.94" x2="85.176" y1="47.115" y2="44.091" stroke="#01050C" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="82.531" x2="85.176" y1="50.45" y2="48.922" stroke="#01050C" stroke-linecap="round" stroke-linejoin="round"/>
+    <polygon fill="#FFF" points="127.877 91.555 105.121 104.692 105.121 137.873 127.877 124.735"/>
+    <polygon stroke="#01050C" stroke-linecap="round" stroke-linejoin="round" points="127.877 91.555 105.121 104.692 105.121 137.873 127.877 124.735"/>
+    <polygon fill="#10BC74" points="113.227 122.176 110.352 123.836 110.352 129.566 113.227 127.906"/>
+    <polygon fill="#10BC74" points="117.854 117.187 114.98 118.846 114.98 126.894 117.854 125.235"/>
+    <polygon fill="#10BC74" points="122.481 111.26 119.607 112.919 119.607 124.222 122.481 122.563"/>
+    <line x1="178.568" x2="178.568" y1="127.543" y2="145.299" stroke="#B1BBC9" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="109.568" x2="109.568" y1="137.355" y2="151.732" stroke="#B1BBC9" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="118.568" x2="118.568" y1="132.855" y2="140.043" stroke="#B1BBC9" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="158.568" x2="158.568" y1="112.855" y2="122.232" stroke="#B1BBC9" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="158.568" x2="158.568" y1="112.855" y2="122.232" stroke="#B1BBC9" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="142.6" x2="142.6" y1="49.786" y2="53.265" stroke="#B1BBC9" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="85.186" x2="85.186" y1="63.493" y2="69.733" stroke="#B1BBC9" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="77.186" x2="77.186" y1="73.733" y2="79.972" stroke="#B1BBC9" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="63.26" x2="63.26" y1="143.635" y2="148.161" stroke="#B1BBC9" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="109.634" x2="120.326" y1="109.35" y2="103.178" stroke="#01050C" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="109.634" x2="115.698" y1="113.202" y2="109.7" stroke="#01050C" stroke-linecap="round" stroke-linejoin="round"/>
+    <polygon fill="#EFF4F7" points="139.697 17.309 127.877 10.484 127.877 24.133 139.697 30.958"/>
+    <polygon stroke="#01050C" stroke-linecap="round" stroke-linejoin="round" points="139.697 17.309 127.877 10.484 127.877 24.133 139.697 30.958"/>
+    <polygon fill="#FFF" points="135.666 23.766 139.792 35.877 131.54 31.113"/>
+    <polygon stroke="#4D72EF" stroke-linecap="round" stroke-linejoin="round" points="135.666 23.766 139.792 35.877 131.54 31.113"/>
+  </g>
+</svg>
